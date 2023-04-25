@@ -2,8 +2,6 @@
 Name: Hanzhe Ye
 Student ID: 1671744
 Class Section: CMPUT 466
-GitHub Link for this project:
-
 """
 from copy import copy
 
